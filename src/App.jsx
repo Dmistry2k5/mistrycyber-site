@@ -9,7 +9,7 @@ const CONFIG = {
   years: 10,
   email: "mistrytech88@gmail.com", // change to your real inbox
   phone: "+44 7930 980525", // change to your real number
-  calendly: "https://calendly.com/your-handle/intro-call", // replace or leave as mailto fallback
+  calendly: "https://calendly.com/mistrytech88/30min", // replace or leave as mailto fallback
 };
 
 const PLANS = [

@@ -7,8 +7,8 @@ const CONFIG = {
   founder: "Dharmesh Mistry",
   founderTitle: "CISSP, Security Operations Leader",
   years: 10,
-  email: "hello@mistrycyber.co.uk", // change to your real inbox
-  phone: "+44 20 0000 0000", // change to your real number
+  email: "mistrytech88@gmail.com", // change to your real inbox
+  phone: "+44 7930 980525", // change to your real number
   calendly: "https://calendly.com/your-handle/intro-call", // replace or leave as mailto fallback
 };
 

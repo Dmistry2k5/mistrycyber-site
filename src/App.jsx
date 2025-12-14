@@ -16,8 +16,8 @@ const PLANS = [
   {
     name: "Home Essentials",
     tagline: "Baseline protection for one person",
-    monthly: 29,
-    annual: 299,
+    monthly: 35,
+    annual: 399,
     features: [
       "Personal cyber audit (devices, Wi‑Fi, accounts)",
       "Password manager setup + MFA across key accounts",
@@ -30,7 +30,7 @@ const PLANS = [
   {
     name: "Family Protect",
     tagline: "Cover the whole household (up to 5)",
-    monthly: 59,
+    monthly: 60,
     annual: 599,
     features: [
       "Home network & router hardening",
